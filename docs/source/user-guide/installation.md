@@ -31,6 +31,7 @@ Make sure the following requirements are met and software installed on your mach
 - Apache Spark 3.2, 3.3, or 3.4
 - JDK 8 and up
 - GLIBC 2.17 (Centos 7) and up
+- [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
 
 ## Using a Published Release
 
